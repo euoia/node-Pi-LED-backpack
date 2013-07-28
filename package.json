@@ -1,0 +1,12 @@
+{
+  "name": "PiLEDBackpack",
+  "version": "0.0.1",
+  "description": "Display something on an 4-digit 7-segment LED display attached to a Raspberry Pi using i2c.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
